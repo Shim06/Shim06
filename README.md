@@ -1,5 +1,5 @@
 # Hi there, I'm Shim! 👋
-I'm a 17 year-old aspiring Computer Scientist from Philippines with a strong passion in technology and code. I make projects on interesting stuff such as games, automation, and emulators. I love games, anime, programming, and problem solving.
+I'm a 18 year-old aspiring Computer Scientist from Philippines with a strong passion in technology and code. I make projects on interesting stuff such as games, automation, and emulators. I love games, anime, programming, and problem solving.
 - 🔭 I’m currently working on an NES emulator 
 - 🌱 I’m currently learning about low-level programming
 - ⚡ Fun fact: I'm a car nerd
