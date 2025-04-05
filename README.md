@@ -1,5 +1,5 @@
 # Hi there, I'm Shim! 👋
-I'm an 18 year-old computer nerd from Philippines. I make projects on games, automation, and low-level programming. I love games, anime, programming, and problem solving.
+I'm a computer nerd from Philippines. I make projects on games, automation, and low-level programming. I love games, anime, programming, and problem solving.
 - 🔭 I’m currently working on an Operating System
 - 🌱 I’m currently learning about Embeddded Systems
 - ⚡ Fun fact: I'm a car nerd
