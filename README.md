@@ -1,6 +1,6 @@
 # Hi there, I'm Shim! 👋
 I'm a computer nerd from Philippines. I make projects on games, automation, and low-level programming. I love games, anime, programming, and problem solving.
-- 🔭 I’m currently working on an Operating System
+- 🔭 I’m currently working on a CPU architecture
 - 🌱 I’m currently learning about Embeddded Systems
 - ⚡ Fun fact: I'm a car nerd
 
