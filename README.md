@@ -1,7 +1,7 @@
 # Hi there, I'm Shim! 👋
-I'm a computer nerd from Philippines. I make projects on games, automation, and low-level programming. I love games, anime, programming, and problem solving.
+I'm a computer nerd from Philippines. I make projects on low-level and embedded systems. I love games, anime, programming, and problem solving.
 - 🔭 I’m currently working on a CPU architecture
-- 🌱 I’m currently learning about Embeddded Systems
+- 🌱 I’m currently learning about FPGAs and PCB design
 - ⚡ Fun fact: I'm a car nerd
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCGPh_IO5-8-gy29SsawM9RQ) 
