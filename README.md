@@ -1,8 +1,5 @@
 # Hello world, I'm Shim! 👋
 I'm a computer nerd from Philippines. I make embedded projects and dig into the weird, nitty-gritty corners of low-level programming. I like optimizing and pushing hardware to the limit. If it's small hardware doing something fun and ridiculous, I'm interested.
-- 🔭 I’m currently working on a CPU architecture
-- 🌱 I’m currently learning about FPGAs and PCB design
-- ⚡ Fun fact: I'm a car nerd
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCGPh_IO5-8-gy29SsawM9RQ) 
 
